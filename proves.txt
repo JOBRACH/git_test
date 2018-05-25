@@ -1,2 +1,6 @@
 Este archivo es un aprueba;
+<<<<<<< HEAD
 Esta modificación se ha realizado despues de crear el branch1
+=======
+Con éste cambio probaremos si funciona el branch1
+>>>>>>> branch1
